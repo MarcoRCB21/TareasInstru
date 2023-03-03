@@ -1,4 +1,4 @@
-Tiempo (s) - Plot 0,Voltaje (V) - Plot 0,,Tiempo (s) - Plot 0,Corriente (mA) - Plot 0
+Tiempo,Voltaje,,Tiempo,Corriente
 0,NaN,,0,NaN
 "0,1","0,442402",,"0,1","2,01092"
 "0,2","0,442472",,"0,2","2,01123"
